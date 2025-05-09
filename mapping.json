@@ -1,0 +1,1993 @@
+{
+  "devices": [
+    {
+      "axes": [],
+      "bustype": 3,
+      "buttons": {
+        "288": {
+          "mapped_button": 0,
+          "virtual_joystick": 0
+        },
+        "289": {
+          "mapped_button": 1,
+          "virtual_joystick": 0
+        },
+        "290": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "291": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "292": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "293": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "294": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "295": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "296": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "297": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "298": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "299": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "300": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "301": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "302": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "303": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "704": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "705": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "706": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "707": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "708": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "709": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "710": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "711": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "712": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "713": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "714": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "715": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "716": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "717": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "718": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "719": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "720": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "721": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "722": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "723": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "724": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "725": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "726": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "727": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "728": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "729": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "730": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "731": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "732": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "733": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "734": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "735": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "736": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "737": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "738": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "739": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "740": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "741": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "742": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "743": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "744": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "745": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "746": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "747": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "748": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "749": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "750": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "751": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "752": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "753": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "754": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "755": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "756": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "757": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "758": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "759": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "760": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "761": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "762": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "763": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "764": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "765": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "766": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "767": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        }
+      },
+      "name": "VKB-Sim (C) Alex Oz 2023  VKBSim NXT FSM.GA ",
+      "num_axes": 0,
+      "num_buttons": 80,
+      "path": "/dev/input/event0",
+      "product": 8736,
+      "vendor": 8989,
+      "version": 273
+    },
+    {
+      "axes": [
+        {
+          "code": 0,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 0,
+          "virtual_axis": 0,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 1,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 1,
+          "virtual_axis": 1,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 2,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 2,
+          "virtual_axis": 2,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 3,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 3,
+          "virtual_axis": 3,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 4,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 4,
+          "virtual_axis": 4,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 5,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 5,
+          "virtual_axis": 5,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 6,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 6,
+          "virtual_axis": 6,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 7,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 7,
+          "virtual_axis": 7,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 16,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 8,
+          "virtual_axis": 0,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 17,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 9,
+          "virtual_axis": 1,
+          "virtual_joystick": 0
+        }
+      ],
+      "bustype": 3,
+      "buttons": {
+        "288": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "289": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "290": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "291": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "292": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "293": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "294": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "295": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "296": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "297": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "298": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "299": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "300": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "301": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "302": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "303": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "704": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "705": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "706": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "707": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "708": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "709": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "710": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "711": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "712": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "713": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "714": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "715": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "716": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "717": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "718": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "719": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "720": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "721": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "722": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "723": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "724": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "725": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "726": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "727": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "728": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "729": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "730": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "731": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "732": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "733": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "734": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "735": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "736": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "737": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "738": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "739": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "740": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "741": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "742": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "743": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "744": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "745": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "746": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "747": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "748": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "749": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "750": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "751": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "752": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "753": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "754": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "755": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "756": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "757": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "758": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "759": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "760": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "761": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "762": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "763": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "764": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "765": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "766": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "767": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        }
+      },
+      "name": "VKB-Sim (C) Alex Oz 2023  VKBsim Gladiator EVO L  ",
+      "num_axes": 10,
+      "num_buttons": 80,
+      "path": "/dev/input/event1",
+      "product": 513,
+      "vendor": 8989,
+      "version": 273
+    },
+    {
+      "axes": [
+        {
+          "code": 0,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 10,
+          "virtual_axis": 0,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 1,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 11,
+          "virtual_axis": 1,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 2,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 12,
+          "virtual_axis": 2,
+          "virtual_joystick": 0
+        }
+      ],
+      "bustype": 3,
+      "buttons": {
+        "288": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "289": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        }
+      },
+      "name": "VKB-Sim (C) Alex Oz 2023  VKBSim T-Rudder ",
+      "num_axes": 3,
+      "num_buttons": 2,
+      "path": "/dev/input/event2",
+      "product": 287,
+      "vendor": 8989,
+      "version": 273
+    },
+    {
+      "axes": [
+        {
+          "code": 0,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 13,
+          "virtual_axis": 0,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 1,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 14,
+          "virtual_axis": 1,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 2,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 15,
+          "virtual_axis": 2,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 3,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 16,
+          "virtual_axis": 3,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 4,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 17,
+          "virtual_axis": 4,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 5,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 18,
+          "virtual_axis": 5,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 6,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 19,
+          "virtual_axis": 6,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 7,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 20,
+          "virtual_axis": 7,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 16,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 21,
+          "virtual_axis": 0,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 17,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 22,
+          "virtual_axis": 1,
+          "virtual_joystick": 0
+        }
+      ],
+      "bustype": 3,
+      "buttons": {
+        "288": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "289": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "290": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "291": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "292": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "293": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "294": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "295": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "296": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "297": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "298": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "299": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "300": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "301": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "302": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "303": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "704": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "705": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "706": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "707": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "708": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "709": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "710": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "711": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "712": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "713": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "714": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "715": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "716": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "717": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "718": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "719": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "720": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "721": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "722": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "723": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "724": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "725": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "726": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "727": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "728": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "729": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "730": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "731": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "732": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "733": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "734": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        }
+      },
+      "name": "Turtle Beach Flightdeck Throttle",
+      "num_axes": 10,
+      "num_buttons": 47,
+      "path": "/dev/input/event3",
+      "product": 28805,
+      "vendor": 4341,
+      "version": 273
+    },
+    {
+      "axes": [],
+      "bustype": 3,
+      "buttons": {
+        "1": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "10": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "100": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "102": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "103": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "104": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "105": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "106": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "107": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "108": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "109": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "11": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "110": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "111": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "113": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "114": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "115": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "116": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "117": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "119": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "12": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "121": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "122": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "123": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "124": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "125": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "126": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "127": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "128": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "129": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "13": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "130": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "131": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "132": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "133": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "134": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "135": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "136": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "137": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "138": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "14": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "15": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "16": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "17": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "18": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "183": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "184": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "185": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "186": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "187": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "188": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "189": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "19": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "190": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "191": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "192": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "193": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "194": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "2": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "20": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "21": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "22": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "23": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "24": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "240": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "25": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "26": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "27": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "28": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "29": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "3": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "30": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "31": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "32": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "33": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "34": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "35": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "36": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "37": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "38": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "39": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "4": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "40": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "41": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "42": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "43": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "44": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "45": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "46": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "47": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "48": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "49": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "5": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "50": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "51": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "52": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "53": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "54": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "55": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "56": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "57": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "58": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "59": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "6": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "60": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "61": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "62": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "63": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "64": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "65": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "66": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "67": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "68": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "69": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "7": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "70": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "71": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "72": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "73": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "74": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "75": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "76": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "77": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "78": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "79": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "8": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "80": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "81": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "82": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "83": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "86": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "87": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "88": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "89": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "9": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "92": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "93": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "94": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "95": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "96": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "97": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "98": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "99": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        }
+      },
+      "name": "Turtle Beach Flightdeck Throttle",
+      "num_axes": 10,
+      "num_buttons": 47,
+      "path": "/dev/input/event4",
+      "product": 28805,
+      "vendor": 4341,
+      "version": 273
+    },
+    {
+      "axes": [
+        {
+          "code": 0,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 23,
+          "virtual_axis": 0,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 1,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 24,
+          "virtual_axis": 1,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 2,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 25,
+          "virtual_axis": 2,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 3,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 26,
+          "virtual_axis": 3,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 4,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 27,
+          "virtual_axis": 4,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 5,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 28,
+          "virtual_axis": 5,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 6,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 29,
+          "virtual_axis": 6,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 7,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 30,
+          "virtual_axis": 7,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 16,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 31,
+          "virtual_axis": 0,
+          "virtual_joystick": 0
+        },
+        {
+          "code": 17,
+          "dead_zone": 0,
+          "invert": false,
+          "mapped_axis": 32,
+          "virtual_axis": 1,
+          "virtual_joystick": 0
+        }
+      ],
+      "bustype": 3,
+      "buttons": {
+        "288": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "289": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "290": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "291": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "292": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "293": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "294": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "295": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "296": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "297": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "298": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "299": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "300": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "301": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "302": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "303": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "704": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "705": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "706": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "707": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "708": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "709": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "710": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "711": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "712": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "713": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "714": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "715": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "716": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "717": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "718": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "719": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "720": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "721": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "722": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "723": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "724": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "725": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "726": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "727": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        }
+      },
+      "name": "Turtle Beach Flightdeck Stick",
+      "num_axes": 10,
+      "num_buttons": 40,
+      "path": "/dev/input/event5",
+      "product": 28804,
+      "vendor": 4341,
+      "version": 273
+    },
+    {
+      "axes": [],
+      "bustype": 3,
+      "buttons": {
+        "272": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "273": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "274": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "275": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "276": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "277": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "278": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "279": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "280": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "281": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "282": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "283": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "284": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "285": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        },
+        "286": {
+          "mapped_button": -1,
+          "virtual_joystick": 0
+        }
+      },
+      "name": "Turtle Beach Flightdeck Stick",
+      "num_axes": 0,
+      "num_buttons": 15,
+      "path": "/dev/input/event6",
+      "product": 28804,
+      "vendor": 4341,
+      "version": 272
+    }
+  ],
+  "global_axis_index": 66,
+  "global_button_index": 0
+}
